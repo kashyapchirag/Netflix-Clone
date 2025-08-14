@@ -61,10 +61,6 @@ nav {
     height: 100px;
 }
 
-
-
-
-
 nav .buttons {
     display: flex;
     column-gap: 10px;
@@ -120,8 +116,6 @@ nav .buttons .bgred {
     row-gap: 15px;
 
 }
-
-
 
 .content1 {
     padding: 23px;
@@ -239,7 +233,6 @@ nav .buttons .bgred {
     
 }
 
-
 .body{
     display: flex;
     flex-direction: column;
@@ -288,10 +281,8 @@ nav .buttons .bgred {
     }
 
     .container {
-        /* padding: 45px 8px 0px 8px; */
         padding-top: 45px;
         padding-bottom: 115px;
-
     }
 
     .content1 {
@@ -313,7 +304,6 @@ nav .buttons .bgred {
         row-gap: 12px;
     }
 
-
     .content2 .input input {
         width: 330px;
         height: 50px;
@@ -326,7 +316,5 @@ nav .buttons .bgred {
         width: 170px;
         font-size: 18px;
     }
-
-    
 }
 
